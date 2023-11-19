@@ -12,7 +12,7 @@ These are some of the major technologies that I use or have worked on in the pas
 - jQuery
 - Gulp
 - PHP
-- WordpPess
+- WordPress
 - SEO
 - MySQL
 - Git.
