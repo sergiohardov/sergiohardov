@@ -5,30 +5,17 @@ I'm a web developer with experience in building websites for small and medium si
 These are some of the major technologies that I use or have worked on in the past:
 
 - HTML
-- Twig
-- Nunjucks
-
+  - Twig\Nunjucks
 - CSS
-- SCSS
-- LESS
-
+  - SCSS\LESS
 - JavaScript
-- jQuery
-- React
-- React Native
-- NPM
+  - jQuery\React\React Native
 - Node
-
+  - Express
 - PHP
-- WordPress
-- Laravel
-- Composer
-
+  - WordPress\Laravel
+- Gulp\Webpack\Vite
+- NPM\Composer
 - MySQL
-
-- Gulp
-- Webpack
-- Vite
-
 - Git
 - Docker
