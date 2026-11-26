@@ -1,4 +1,4 @@
-# Serhii Pivovar
+# Sergio Hardov
 
 **Middle WordPress / PHP Developer** · Odesa, Ukraine · Remote
 
