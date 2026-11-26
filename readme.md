@@ -26,7 +26,7 @@ Built a PHP pipeline on Claude and Gemini APIs that replaced a manual publishing
 
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=php,wordpress,laravel,js,ts,react,nextjs,mysql,tailwind,sass,vite,docker,git,githubactions,figma)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=php,wordpress,laravel,mysql,sqlite,js,ts,react,nextjs,alpinejs,jquery,html,css,sass,tailwind,vite,webpack,gulp,docker,nginx,linux,git,githubactions,postman,figma&perline=13)](https://skillicons.dev)
 
 ### Contact
 
