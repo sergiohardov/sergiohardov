@@ -1,16 +1,16 @@
 # Sergio Hardov
 
-**Middle WordPress / PHP Developer** · Odesa, Ukraine · Remote
+**Full-Stack Developer** · PHP / WordPress / Laravel · AI Automation · Odesa, Ukraine · Remote
 
-5+ years building websites for small and medium-sized businesses — 100+ WordPress sites delivered, in-house and freelance.
-Currently at **Already Media**: custom WordPress themes and plugins, Laravel admin panels and AI-powered automation.
+Full-stack developer who takes projects from idea to production — requirements, architecture, back end and front end, CI/CD and deployment.
+5+ years, 100+ websites delivered, in-house and freelance. Currently at **Already Media**: AI-powered automation, Laravel admin panels, custom WordPress plugins.
 
 ### Focus
 
-- **WordPress** — Gutenberg blocks, WooCommerce, ACF Pro, Timber/Twig, Polylang
-- **Modern PHP** — OOP, Composer, reusable libraries
-- **Laravel** — Filament, Voyager, Inertia
-- **AI integrations** — Claude, Gemini and OpenAI APIs
+- **AI & automation** — LLM pipelines on Claude, Gemini and OpenAI APIs, Telegram bots, web scraping; daily work with Claude Code
+- **DevOps & deploy** — Docker, GitHub Actions CI/CD, Linux, Nginx, Cloudflare, automated releases
+- **Back end** — PHP (OOP), Laravel + Filament, WordPress (plugins, Gutenberg, WooCommerce, ACF, Timber/Twig)
+- **Front end** — JavaScript / TypeScript, React, Next.js, React Native
 
 ### Highlight
 
@@ -26,7 +26,7 @@ Built a PHP pipeline on Claude and Gemini APIs that replaced a manual publishing
 
 ### Stack
 
-[![Stack](https://skillicons.dev/icons?i=php,wordpress,laravel,mysql,sqlite,js,ts,react,nextjs,alpinejs,jquery,html,css,sass,tailwind,vite,webpack,gulp,docker,nginx,linux,git,githubactions,postman,figma&perline=13)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=docker,githubactions,linux,nginx,cloudflare,git,php,laravel,wordpress,mysql,sqlite,postman,figma,js,ts,react,nextjs,alpinejs,jquery,html,css,sass,tailwind,vite,webpack,gulp&perline=13)](https://skillicons.dev)
 
 ### Contact
 
